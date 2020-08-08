@@ -28,6 +28,9 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fouYoirT0f7W433HFSCMUUdLKm" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
