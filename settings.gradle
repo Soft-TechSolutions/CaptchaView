@@ -1,0 +1,3 @@
+include ':CaptchaImage'
+include ':app'
+rootProject.name = "CaptchaView"
