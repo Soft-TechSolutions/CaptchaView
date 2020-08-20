@@ -9,17 +9,8 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1912a1e2-6e85-408c-8a37-57930cd1c14d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/CaptchaImage/CaptchaImage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/CaptchaImage/CaptchaImage.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaptchaImage/src/main/java/com/softtech/captchaimage/CaptchaImageView.java" beforeDir="false" afterPath="$PROJECT_DIR$/CaptchaImage/src/main/java/com/softtech/captchaimage/CaptchaImageView.java" afterDir="false" />
+    <list default="true" id="1912a1e2-6e85-408c-8a37-57930cd1c14d" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/CaptchaImage/src/main/java/com/softtech/captchaimage" />
-    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -142,10 +133,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="477" y="257" key="#PSD" timestamp="1596896885577">
+    <state x="477" y="257" key="#PSD" timestamp="1597908355364">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="477" y="257" key="#PSD/0.0.1920.1050@0.0.1920.1050" timestamp="1596896885577" />
+    <state x="477" y="257" key="#PSD/0.0.1920.1050@0.0.1920.1050" timestamp="1597908355364" />
     <state x="613" y="119" key="CommitChangelistDialog2" timestamp="1597908116998">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
