@@ -47,6 +47,6 @@ Use in your project
 2.Add the dependency in your app build.gradle file:
 ```gradle
 dependencies {
-		implementation 'com.github.Soft-TechSolutions:CaptchaView:1.0'
+		implementation 'com.github.Soft-TechSolutions:CaptchaView:2.0'
 }
 ```
